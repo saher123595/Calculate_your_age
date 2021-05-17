@@ -54,4 +54,5 @@ body {
 
 h1 i {
     margin: 20px;
+    cursor: pointer;
 }
